@@ -1,5 +1,9 @@
 {
   "name": "mainblogwithnext",
+  "project": "insh.com",
+  "project-type": "Blog Template",
+  "description": "Insh is a blog website, It was help developer to develop her web project fast & better",
+  "displayName": "Insh",
   "version": "0.1.0",
   "private": true,
   "scripts": {
